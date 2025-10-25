@@ -46,8 +46,8 @@ I specialize in modern JavaScript and Python frameworks alongside **no-code/low-
 
 | Certification | Issued By | Credential Link |
 |----------------|------------|-----------------|
-| 🧠 **Zero-Code Bubble Certification** | Zerocode Institute | [View Certificate](https://drive.google.com/file/d/1ZqD0q_A8nCh5X-T0CNDYt8k-rRkEHbvw/view?usp=drive_link) |
-| ⚙️ **AI Automation Bootcamp** | Loubby AI x Divverse Labs | *Pending Upload* |
+| 🧠 **Zero-Code Bubble Certification** | Zerocode Institute | [View Certificate](:https://drive.google.com/file/d/1ZqD0q_A8nCh5X-T0CNDYt8k-rRkEHbvw/view?usp=drive_link) |
+| ⚙️ **AI Automation Bootcamp** | Loubby AI x Divverse Labs | [View Certificate](https://drive.google.com/file/d/1ZqD0q_A8nCh5X-T0CNDYt8k-rRkEHbvw/view?usp=drive_link)  |
 | 💻 **Pro-Dev Backend Program** | ALX Africa | *In Progress* |
 
 ---
