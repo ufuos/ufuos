@@ -15,22 +15,22 @@
 ## 👋 Hi, I’m **Ufuoma Ogedegbe**
 
 🧠 **AI Automation Engineer | AI Agent Systems Developer | Fullstack Software Engineer**  
-🌍 **Nigeria · Open to Global Remote Roles**
+🌍 **Nigeria · Open to Global Remote & International Roles**
 
-🚀 I design and build **AI-powered automation systems**, **intelligent agent workflows**, and **production-ready backend platforms** that eliminate manual work and improve operational efficiency.
+🚀 I design and build **AI-powered automation systems**, **intelligent AI agent workflows**, and **production-ready backend platforms** that eliminate manual work, optimize operations, and scale businesses efficiently.
 
-My work sits at the intersection of **AI agents, workflow automation, API orchestration, and backend engineering** — blending solid software principles with AI logic and no-code/low-code automation to deliver **real-world impact**.
+My expertise sits at the intersection of **AI agents, workflow automation, API orchestration, backend engineering, and no-code/low-code systems** — delivering **real-world, business-ready automation solutions**.
 
 ---
 
 ## 🚀 What I Do (Recruiter Snapshot)
 
 ✔ AI Agent Architecture & Execution Logic  
-✔ Workflow Automation (n8n, No-Code Systems)  
+✔ AI Workflow Automation (n8n, Zapier, Make)  
 ✔ API Design, Integration & Orchestration  
-✔ Intelligent Task & Decision Automation  
+✔ Intelligent Decision & Task Automation  
 ✔ Backend Engineering (Django, Node.js, Express)  
-✔ Fullstack Development (React, MERN)  
+✔ Fullstack Development (React, MERN Stack)  
 ✔ Database Design & Optimization  
 ✔ Remote-First, Async & Agile Collaboration  
 
@@ -39,32 +39,32 @@ My work sits at the intersection of **AI agents, workflow automation, API orches
 ## 🧠 Key AI Automation Projects
 
 ### 🔁 AI Workflow Automation Systems
-- Built **n8n-based automation pipelines** integrating APIs, databases, and AI services  
+- Built **production-grade automation pipelines** using **n8n, APIs, and databases**
 - Automated:
   - Business notifications & alerts  
   - Data synchronization pipelines  
   - Task execution & routing logic  
-- Reduced manual operations and improved system reliability
+- Reduced manual workload and improved operational efficiency
 
 ### 🤖 AI Agent–Driven Applications
 - Designed **AI agent execution logic** that:
-  - Accepts structured user or system requests  
+  - Accepts structured user/system requests  
   - Triggers automated workflows  
   - Communicates with backend services & external APIs  
-- Implemented **agent-based task routing** for scalable automation platforms
+- Implemented **agent-based task routing** for scalable AI platforms
 
 ### 💰 WealthWise — Personal Finance Adviser AI Agent
 - Built an **AI-powered personal finance assistant** that:
   - Analyzes income, expenses & spending patterns  
-  - Provides budgeting, savings & financial insights  
-  - Automates financial recommendations & reminders  
+  - Generates budgeting & savings insights  
+  - Automates financial reminders & recommendations  
 
 **Backend Architecture (Django):**
 - Secure authentication & user profiles  
 - Financial data ingestion & processing  
-- REST APIs designed for AI-agent interaction  
-- Automation-ready, extensible & future-proof  
-  *(bank APIs, alerts, analytics)*
+- REST APIs optimized for AI-agent interaction  
+- Automation-ready & extensible architecture  
+  *(future bank APIs, alerts, analytics)*
 
 ---
 
@@ -73,7 +73,7 @@ My work sits at the intersection of **AI agents, workflow automation, API orches
 | Project | Description | Stack |
 |------|------------|------|
 | 🤖 **AI Agents Platform** | Modular AI agent system with execution logic & task routing | Python · Django · AI Agents |
-| 🔁 **Workflow Automation Hub** | Real-world automation pipelines | n8n · APIs · Automation |
+| 🔁 **Workflow Automation Hub** | Real-world business automation pipelines | n8n · APIs · Automation |
 | 🧠 **AI Backend Systems** | Scalable APIs optimized for AI workflows | Django · Node.js |
 | 💰 **WealthWise AI Agent** | Personal finance adviser AI agent | Django · PostgreSQL · AI |
 
@@ -93,7 +93,7 @@ React.js · React Native · Tailwind CSS
 MongoDB · PostgreSQL · MySQL  
 
 ### AI & Automation
-AI Agents · Workflow Automation (n8n)  
+AI Agents · Workflow Automation (n8n, Zapier, Make)  
 
 ### No-Code / Low-Code
 Bubble.io  
@@ -129,13 +129,48 @@ Petroleum Training Institute (PTI), Nigeria — **2014**
 
 ---
 
-## 📜 Certifications
+## 📜 Trainings, Certifications & Achievements
 
-- **ALX ProDev Backend Engineering (Django)** — 2025  
-- **No-Code / Low-Code AI Automation** — 2025  
-- **Software Engineering (3MTT)** — 2024  
-- **Cisco:** Python Essentials · JavaScript Essentials — 2024  
-- **Microsoft:** Essential Career in Productivity — 2024  
+<p align="center">
+  <img src="https://img.shields.io/badge/ALX-Backend%20Engineering-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cisco-JavaScript%20%7C%20Python-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microsoft-Generative%20AI-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/No--Code-Automation-green?style=for-the-badge" />
+</p>
+
+### ✅ Professional Trainings & Certificates
+
+- **ALX ProDev Backend Engineering (Django)**  
+  *ALX Africa*  
+  🔗 https://drive.google.com/file/d/17r8MJz3svVao6b3on_74W744h77HSY54/view  
+
+- **Software Development (3MTT Program)**  
+  *School of Software Engineering, Nigeria*  
+  🔗 https://drive.google.com/file/d/1XsI34kOQIWzXdqyTixqbmmox1nwdqzmV/view  
+
+- **Cisco JavaScript Essentials 2**  
+  *Cisco Networking Academy*  
+  🔗 https://drive.google.com/file/d/1ieNawuvfBD7sVnnlYcRFGGy3Bhplj5P5/view  
+
+- **Cisco Python Essentials 1**  
+  *Cisco Networking Academy*  
+  🔗 https://drive.google.com/file/d/1ZzS28ba1PODJPb9XA2wMIDE2rWpkl6Ue/view  
+
+- **Bubble.io No-Code / Low-Code Development**  
+  *Zero Code Institute, Lagos, Nigeria*  
+  🔗 https://drive.google.com/file/d/1EWG1JVdMgY36qMaKZfKDBeqSVJE4TY20/view  
+
+- **No-Code / Low-Code Automation (n8n, Zapier, Make)**  
+  *Loubby AI / Diverse Lab Training*  
+  🔗 https://drive.google.com/file/d/1ZqD0q_A8nCh5X-T0CNDYt8k-rRkEHbvw/view  
+
+- **ALX Professional Foundations**  
+  *ALX Africa*  
+  🔗 https://drive.google.com/file/d/12JffDTSGQgGNfpcORXy8Ok68CWqL-Bcc/view  
+
+- **Microsoft Generative AI Certificate**  
+  *Microsoft*  
+  🔗 https://drive.google.com/file/d/1BiPlDjcMNhKFW078IbMPHcbEWnSIpDFh/view  
 
 ---
 
