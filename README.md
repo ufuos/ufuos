@@ -17,6 +17,9 @@
 🧠 **AI Automation Engineer | AI Agent Systems Developer | Fullstack Software Engineer**  
 🌍 **Nigeria · Open to Global Remote & International Roles**
 
+📄 **Download My CV:**  
+👉 **https://drive.google.com/file/d/1lJYZGBg5_C7ai6R02mbeHqUTWuKuMn7B/view**
+
 🚀 I design and build **AI-powered automation systems**, **intelligent AI agent workflows**, and **production-ready backend platforms** that eliminate manual work, optimize operations, and scale businesses efficiently.
 
 My expertise sits at the intersection of **AI agents, workflow automation, API orchestration, backend engineering, and no-code/low-code systems** — delivering **real-world, business-ready automation solutions**.
@@ -64,7 +67,6 @@ My expertise sits at the intersection of **AI agents, workflow automation, API o
 - Financial data ingestion & processing  
 - REST APIs optimized for AI-agent interaction  
 - Automation-ready & extensible architecture  
-  *(future bank APIs, alerts, analytics)*
 
 ---
 
@@ -138,40 +140,6 @@ Petroleum Training Institute (PTI), Nigeria — **2014**
   <img src="https://img.shields.io/badge/No--Code-Automation-green?style=for-the-badge" />
 </p>
 
-### ✅ Professional Trainings & Certificates
-
-- **ALX ProDev Backend Engineering (Django)**  
-  *ALX Africa*  
-  🔗 https://drive.google.com/file/d/17r8MJz3svVao6b3on_74W744h77HSY54/view  
-
-- **Software Development (3MTT Program)**  
-  *School of Software Engineering, Nigeria*  
-  🔗 https://drive.google.com/file/d/1XsI34kOQIWzXdqyTixqbmmox1nwdqzmV/view  
-
-- **Cisco JavaScript Essentials 2**  
-  *Cisco Networking Academy*  
-  🔗 https://drive.google.com/file/d/1ieNawuvfBD7sVnnlYcRFGGy3Bhplj5P5/view  
-
-- **Cisco Python Essentials 1**  
-  *Cisco Networking Academy*  
-  🔗 https://drive.google.com/file/d/1ZzS28ba1PODJPb9XA2wMIDE2rWpkl6Ue/view  
-
-- **Bubble.io No-Code / Low-Code Development**  
-  *Zero Code Institute, Lagos, Nigeria*  
-  🔗 https://drive.google.com/file/d/1EWG1JVdMgY36qMaKZfKDBeqSVJE4TY20/view  
-
-- **No-Code / Low-Code Automation (n8n, Zapier, Make)**  
-  *Loubby AI / Diverse Lab Training*  
-  🔗 https://drive.google.com/file/d/1ZqD0q_A8nCh5X-T0CNDYt8k-rRkEHbvw/view  
-
-- **ALX Professional Foundations**  
-  *ALX Africa*  
-  🔗 https://drive.google.com/file/d/12JffDTSGQgGNfpcORXy8Ok68CWqL-Bcc/view  
-
-- **Microsoft Generative AI Certificate**  
-  *Microsoft*  
-  🔗 https://drive.google.com/file/d/1BiPlDjcMNhKFW078IbMPHcbEWnSIpDFh/view  
-
 ---
 
 ## 📊 GitHub Stats & Activity
@@ -198,6 +166,9 @@ Petroleum Training Institute (PTI), Nigeria — **2014**
   </a>
   <a href="https://github.com/ufuos" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/1lJYZGBg5_C7ai6R02mbeHqUTWuKuMn7B/view" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20CV-0F9D58?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>
 
