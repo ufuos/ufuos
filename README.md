@@ -1,147 +1,210 @@
-👋 Hi, I’m Ufuoma Ogedegbe
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=28&color=36BCF7&center=true&vCenter=true&width=900&height=60&lines=Hi%2C+I'm+Ufuoma+Ogedegbe+👋;AI+Automation+Engineer+%7C+AI+Agent+Systems+Developer;Fullstack+Software+Engineer;Building+Intelligent+Automation+at+Scale" alt="Typing SVG" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E3C72&height=200&section=header&text=Ufuoma%20Ogedegbe&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" /> </p>
-🧠 AI Automation Engineer | AI Agent Systems Developer | Fullstack Software Engineer
+<!-- ======================= -->
+<!--  UFUOMA OGEDEGBE README -->
+<!-- ======================= -->
 
-🌍 Nigeria · Open to Global Remote & International Roles
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=36BCF7&center=true&vCenter=true&width=900&height=60&lines=Hi%2C+I'm+Ufuoma+Ogedegbe+👋;AI+Automation+Engineer+%7C+AI+Agent+Systems+Developer;Fullstack+Software+Engineer;Building+Intelligent+Automation+at+Scale" alt="Typing SVG" />
+</p>
 
-🚀 I design and build AI-powered automation systems, intelligent AI agent workflows, and production-ready backend platforms that eliminate manual work, optimize operations, and scale businesses efficiently.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E3C72&height=200&section=header&text=Ufuoma%20Ogedegbe&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
 
-My expertise sits at the intersection of AI agents, workflow automation, API orchestration, backend engineering, and no-code/low-code systems — delivering real-world, business-ready automation solutions.
+<h2 align="center">🧠 AI Automation Engineer · AI Agent Systems Developer · Fullstack Software Engineer</h2>
 
-📄 View My CV:
-👉 https://drive.google.com/file/d/1lJYZGBg5_C7ai6R02mbeHqUTWuKuMn7B/view
+<p align="center">
+  🌍 Nigeria · Open to Global Remote & International Roles
+</p>
 
-🚀 What I Do (Recruiter Snapshot)
+---
 
-✔ AI Agent Architecture & Execution Logic
-✔ AI Workflow Automation (n8n, Zapier, Make)
-✔ API Design, Integration & Orchestration
-✔ Intelligent Decision & Task Automation
-✔ Backend Engineering (Django, Node.js, Express)
-✔ Fullstack Development (React, MERN Stack)
-✔ Database Design & Optimization
-✔ Remote-First, Async & Agile Collaboration
+## 🚀 About Me
 
-🧠 Key AI Automation Projects
-🔁 AI Workflow Automation Systems
+I design and build **AI-powered automation systems**, **intelligent AI agent workflows**, and **production-grade backend platforms** that eliminate manual work, optimize operations, and scale businesses efficiently.
 
-Built production-grade automation pipelines using n8n, APIs, and databases
+My expertise lives at the intersection of:
 
-Automated:
+- **AI Agents & Execution Logic**
+- **Workflow Automation**
+- **Backend Engineering**
+- **API Orchestration**
+- **No-Code / Low-Code Systems**
 
-Business notifications & alerts
+I focus on **real-world, business-ready automation solutions** that deliver measurable impact.
 
-Data synchronization pipelines
+---
 
-Task execution & routing logic
+## 📄 Resume (ATS-Optimized)
 
-Significantly reduced manual workload and operational friction
+👉 **View My CV**  
+🔗 https://drive.google.com/file/d/1lJYZGBg5_C7ai6R02mbeHqUTWuKuMn7B/view
 
-🤖 AI Agent–Driven Applications
+---
 
-Designed AI agent execution logic that:
+## 🧩 Recruiter Snapshot — What I Do
 
-Accepts structured user/system requests
+✔ AI Agent Architecture & Execution Logic  
+✔ AI Workflow Automation (n8n, Zapier, Make)  
+✔ API Design, Integration & Orchestration  
+✔ Intelligent Decision & Task Automation  
+✔ Backend Engineering (Django, Node.js, Express)  
+✔ Fullstack Development (React, MERN Stack)  
+✔ Database Design & Optimization  
+✔ Remote-First · Async · Agile Collaboration  
 
-Triggers automated workflows
+---
 
-Communicates with backend services & external APIs
+## 🧠 Key AI Automation Projects
 
-Implemented agent-based task routing for scalable AI platforms
+### 🔁 AI Workflow Automation Systems
+- Built **production-grade automation pipelines** using n8n, APIs, and databases  
+- Automated:
+  - Business notifications & alerts  
+  - Data synchronization pipelines  
+  - Task execution & routing logic  
+- Result: **Significant reduction in manual workload & operational friction**
 
-💰 WealthWise — Personal Finance Adviser AI Agent
+---
 
-Built an AI-powered personal finance assistant that:
+### 🤖 AI Agent-Driven Applications
+Designed intelligent agent systems that:
+- Accept structured user & system requests  
+- Trigger automated workflows  
+- Communicate with backend services & external APIs  
+- Support scalable agent-based task routing
 
-Analyzes income, expenses & spending patterns
+---
 
-Generates budgeting & savings insights
+### 💰 WealthWise — Personal Finance Adviser AI Agent
+An AI-powered personal finance assistant that:
+- Analyzes income, expenses & spending patterns  
+- Generates budgeting & savings insights  
+- Automates financial reminders & recommendations  
 
-Automates financial reminders & recommendations
+**Backend Architecture (Django):**
+- Secure authentication & user profiles  
+- Financial data ingestion & processing  
+- REST APIs optimized for AI-agent interaction  
+- Automation-ready, extensible design  
 
-Backend Architecture (Django):
+---
 
-Secure authentication & user profiles
+## ⭐ Featured Repositories
 
-Financial data ingestion & processing
+| Project | Description | Stack |
+|------|------------|------|
+| 🤖 **AI Agents Platform** | Modular AI agent system with execution logic & task routing | Python · Django |
+| 🔁 **Workflow Automation Hub** | Business automation pipelines | n8n · APIs |
+| 🧠 **AI Backend Systems** | Scalable APIs optimized for AI workflows | Django · Node.js |
+| 💰 **WealthWise AI Agent** | Personal finance adviser AI | Django · PostgreSQL |
 
-REST APIs optimized for AI-agent interaction
+➡️ **Explore more:** https://github.com/ufuos?tab=repositories
 
-Automation-ready, extensible architecture
+---
 
-⭐ Featured Repositories
-Project	Description	Stack
-🤖 AI Agents Platform	Modular AI agent system with execution logic & task routing	Python · Django
-🔁 Workflow Automation Hub	Business automation pipelines	n8n · APIs
-🧠 AI Backend Systems	Scalable APIs optimized for AI workflows	Django · Node.js
-💰 WealthWise AI Agent	Personal finance adviser AI	Django · PostgreSQL
+## 🧰 Tech Stack
 
-➡️ Explore more: https://github.com/ufuos?tab=repositories
+**Backend**  
+Django · Django REST Framework · Node.js · Express  
 
-🧰 Tech Stack
+**Frontend**  
+React.js · React Native · Tailwind CSS  
 
-Backend: Django · Django REST Framework · Node.js · Express
-Frontend: React.js · React Native · Tailwind CSS
-Databases: MongoDB · PostgreSQL · MySQL
-AI & Automation: AI Agents · n8n · Zapier · Make
-No-Code / Low-Code: Bubble.io
-DevOps: Git · GitHub · Docker (Foundational)
+**Databases**  
+MongoDB · PostgreSQL · MySQL  
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,react,tailwind,mongodb,postgres,docker,git,github,postman" /> </p>
-💼 Professional Experience
-Freelance AI Automation Engineer & Fullstack Developer
+**AI & Automation**  
+AI Agents · n8n · Zapier · Make  
 
-📍 Remote | 2020 – Present
+**No-Code / Low-Code**  
+Bubble.io  
 
-Built AI-enabled backend systems using Django & Node.js
+**DevOps (Foundational)**  
+Git · GitHub · Docker  
 
-Designed automation workflows integrating third-party APIs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,react,tailwind,mongodb,postgres,docker,git,github,postman" />
+</p>
 
-Developed secure, scalable REST APIs for web & mobile apps
+---
 
-Delivered no-code & low-code automation solutions
+## 💼 Professional Experience
 
-Translated business requirements into production-ready systems
+### Freelance AI Automation Engineer & Fullstack Developer  
+📍 Remote | **2020 – Present**
 
-Shipped maintainable, extensible solutions for distributed teams
+- Built AI-enabled backend systems using Django & Node.js  
+- Designed automation workflows integrating third-party APIs  
+- Developed secure, scalable REST APIs for web & mobile apps  
+- Delivered no-code & low-code automation solutions  
+- Translated business requirements into production-ready systems  
+- Shipped maintainable, extensible solutions for distributed teams  
 
-🎓 Education
+---
 
-Higher National Diploma (HND)
-Electronics & Telecommunication Engineering
-Petroleum Training Institute (PTI), Nigeria — 2014
+## 🎓 Education
 
-📜 Certifications & Trainings
+**Higher National Diploma (HND)**  
+Electronics & Telecommunication Engineering  
+Petroleum Training Institute (PTI), Nigeria — **2014**
 
-ALX ProDev Backend Engineering (Django)
-https://drive.google.com/file/d/17r8MJz3svVao6b3on_74W744h77HSY54/view
+---
 
-Software Development (3MTT Program)
-https://drive.google.com/file/d/1XsI34kOQIWzXdqyTixqbmmox1nwdqzmV/view
+## 📜 Certifications & Training
 
-Cisco JavaScript Essentials 2
-https://drive.google.com/file/d/1ieNawuvfBD7sVnnlYcRFGGy3Bhplj5P5/view
+- **ALX ProDev Backend Engineering (Django)**  
+  https://drive.google.com/file/d/17r8MJz3svVao6b3on_74W744h77HSY54/view
 
-Cisco Python Essentials 1
-https://drive.google.com/file/d/1ZzS28ba1PODJPb9XA2wMIDE2rWpkl6Ue/view
+- **Software Development (3MTT Program)**  
+  https://drive.google.com/file/d/1XsI34kOQIWzXdqyTixqbmmox1nwdqzmV/view
 
-Bubble.io No-Code / Low-Code Development
-https://drive.google.com/file/d/1EWG1JVdMgY36qMaKZfKDBeqSVJE4TY20/view
+- **Cisco JavaScript Essentials 2**  
+  https://drive.google.com/file/d/1ieNawuvfBD7sVnnlYcRFGGy3Bhplj5P5/view
 
-No-Code Automation (n8n, Zapier, Make)
-https://drive.google.com/file/d/1ZqD0q_A8nCh5X-T0CNDYt8k-rRkEHbvw/view
+- **Cisco Python Essentials 1**  
+  https://drive.google.com/file/d/1ZzS28ba1PODJPb9XA2wMIDE2rWpkl6U/view
 
-ALX Professional Foundations
-https://drive.google.com/file/d/12JffDTSGQgGNfpcORXy8Ok68CWqL-Bcc/view
+- **Bubble.io No-Code / Low-Code Development**  
+  https://drive.google.com/file/d/1EWG1JVdMgY36qMaKZfKDBeqSVJE4TY20/view
 
-Microsoft Generative AI Certificate
-https://drive.google.com/file/d/1BiPlDjcMNhKFW078IbMPHcbEWnSIpDFh/view
+- **No-Code Automation (n8n, Zapier, Make)**  
+  https://drive.google.com/file/d/1ZqD0q_A8nCh5X-T0CNDYt8k-rRkEHbvw/view
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ufuos&show_icons=true&theme=tokyonight&hide_border=true" height="180" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ufuos&theme=tokyonight&hide_border=true" height="180" /> </p>
-🤝 Connect With Me
-<p align="center"> <a href="https://ufuosmernportfolio.onrender.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=react&logoColor=white" /> </a> <a href="https://linkedin.com/in/ufuoma-ogedegbe-b14250100" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/ufuos" target="_blank"> <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+- **ALX Professional Foundations**  
+  https://drive.google.com/file/d/12JffDTSGQgGNfpcORXy8Ok68CWqL-Bcc/view
 
-📞 Phone: +234 816 842 7910
+- **Microsoft Generative AI Certificate**  
+  https://drive.google.com/file/d/1BiPlDjcMNhKFW078IbMPHcbEWnSIpDFh/view
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:36BCF7&height=120&section=footer" /> </p>
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ufuos&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ufuos&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+---
+
+## 🤝 Let’s Connect
+
+<p align="center">
+  <a href="https://ufuosmernportfolio.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/ufuoma-ogedegbe-b14250100" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ufuos" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+📞 **Phone:** +234 816 842 7910  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:36BCF7&height=120&section=footer" />
+</p>
