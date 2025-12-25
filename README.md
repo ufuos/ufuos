@@ -54,32 +54,50 @@ I focus on **real-world, business-ready automation solutions** that deliver meas
 
 ---
 
-## 💻 Featured Projects
+## 🧠 Key Projects & No-Code Highlights
 
-### 💡 GlassAdmin — Bubble.io Admin Panel
-**No-Code / Low-Code Project**  
-![Bubble.io Badge](https://img.shields.io/badge/Bubble.io-No-Code-blue?style=flat&logo=bubble)  
+### 💻 GlassAdmin — Bubble.io Admin Panel
+<p align="center">
+  <a href="https://bubble.io/page?id=ufuogbe-86355&tab=Design&name=users&ai_generated=true&subtab=General&type=page&elements=ai_REVlZpVD" target="_blank">
+    <img src="https://i.ibb.co/xF5PjDk/glassadmin-dashboard.png" alt="GlassAdmin Dashboard" width="700"/>
+  </a>
+</p>
 
-GlassAdmin is a modern **admin panel built entirely on Bubble.io** to manage users, transactions, and analytics efficiently.
+**Overview:** GlassAdmin is a modern **Bubble.io admin panel** designed to monitor and manage users and transactions efficiently.  
 
-**✨ Key Features:**  
-- 🔎 Transaction Details – In-depth insights into user transactions  
-- 👥 User Management – Monitor, manage, and resolve user issues  
-- 📊 Analytics Ready – Clear overview of platform activities  
-- ⚡ Bubble.io Advantages – No-code setup, responsive design, easy scalability  
+**Key Features:**
+- 🔎 **Transaction Details** – Access in-depth insights into user transactions  
+- 👥 **User Management** – Monitor, manage, and resolve user issues  
+- 📊 **Analytics Ready** – Clear overview of platform activities & financial flows  
+- ⚡ **Bubble.io Advantages** – No-code setup, responsive, scalable  
 
-**📸 Screenshots**  
+**Screenshots:**
+<p align="center">
+  <img src="https://i.ibb.co/2ZqFJ8P/glassadmin-transactions.png" alt="Transaction Details" width="600"/>
+  <img src="https://i.ibb.co/SJxVJ0B/glassadmin-users.png" alt="User Management" width="600"/>
+</p>
 
-Dashboard Overview:  
-![GlassAdmin Dashboard](https://i.ibb.co/X7d7p9r/glassadmin-dashboard.png)  
+**🚀 Live Demo:** [GlassAdmin Live](https://bubble.io/page?id=ufuogbe-86355&tab=Design&name=users&ai_generated=true&subtab=General&type=page&elements=ai_REVlZpVD)  
+**🏷️ Tech / No-Code Stack:** Bubble.io · No-Code / Low-Code  
 
-Transaction Details Page:  
-![GlassAdmin Transactions](https://i.ibb.co/2d5fP5k/glassadmin-transactions.png)  
+---
 
-**🚀 Deployment**  
-Directly deployed from Bubble.io  
+### 🔁 AI Workflow Automation Systems
+- Built **production-grade automation pipelines** using n8n, APIs, and databases  
+- Automated:
+  - Business notifications & alerts  
+  - Data synchronization pipelines  
+  - Task execution & routing logic  
+- Result: **Significant reduction in manual workload & operational friction**
 
-**🔗 Live Demo:** [GlassAdmin Live](https://glassadmin.bubbleapps.io)
+---
+
+### 🤖 AI Agent-Driven Applications
+Designed intelligent agent systems that:
+- Accept structured user & system requests  
+- Trigger automated workflows  
+- Communicate with backend services & external APIs  
+- Support scalable agent-based task routing
 
 ---
 
@@ -94,13 +112,6 @@ An AI-powered personal finance assistant that:
 - Financial data ingestion & processing  
 - REST APIs optimized for AI-agent interaction  
 - Automation-ready, extensible design  
-
----
-
-### 🤖 AI Agent & Workflow Systems
-- Modular AI agent systems with execution logic & task routing  
-- Production-grade automation pipelines (n8n, Zapier, Make)  
-- Scalable, secure backend APIs for AI-driven workflows  
 
 ---
 
@@ -119,23 +130,12 @@ An AI-powered personal finance assistant that:
 
 ## 🧰 Tech Stack
 
-**Backend**  
-Django · Django REST Framework · Node.js · Express  
-
-**Frontend**  
-React.js · React Native · Tailwind CSS  
-
-**Databases**  
-MongoDB · PostgreSQL · MySQL  
-
-**AI & Automation**  
-AI Agents · n8n · Zapier · Make  
-
-**No-Code / Low-Code**  
-Bubble.io  
-
-**DevOps (Foundational)**  
-Git · GitHub · Docker  
+**Backend:** Django · Django REST Framework · Node.js · Express  
+**Frontend:** React.js · React Native · Tailwind CSS  
+**Databases:** MongoDB · PostgreSQL · MySQL  
+**AI & Automation:** AI Agents · n8n · Zapier · Make  
+**No-Code / Low-Code:** Bubble.io  
+**DevOps (Foundational):** Git · GitHub · Docker  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,react,tailwind,mongodb,postgres,docker,git,github,postman,bubble" />
