@@ -37,7 +37,7 @@ I focus on **real-world, business-ready automation solutions** that deliver meas
 ## 📄 Resume (ATS-Optimized)
 
 👉 **View My CV**  
-🔗 https://drive.google.com/file/d/1lJYZGBg5_C7ai6R02mbeHqUTWuKuMn7B/view
+🔗 [Download CV](https://drive.google.com/file/d/1lJYZGBg5_C7ai6R02mbeHqUTWuKuMn7B/view)
 
 ---
 
@@ -54,24 +54,32 @@ I focus on **real-world, business-ready automation solutions** that deliver meas
 
 ---
 
-## 🧠 Key AI Automation Projects
+## 💻 Featured Projects
 
-### 🔁 AI Workflow Automation Systems
-- Built **production-grade automation pipelines** using n8n, APIs, and databases  
-- Automated:
-  - Business notifications & alerts  
-  - Data synchronization pipelines  
-  - Task execution & routing logic  
-- Result: **Significant reduction in manual workload & operational friction**
+### 💡 GlassAdmin — Bubble.io Admin Panel
+**No-Code / Low-Code Project**  
+![Bubble.io Badge](https://img.shields.io/badge/Bubble.io-No-Code-blue?style=flat&logo=bubble)  
 
----
+GlassAdmin is a modern **admin panel built entirely on Bubble.io** to manage users, transactions, and analytics efficiently.
 
-### 🤖 AI Agent-Driven Applications
-Designed intelligent agent systems that:
-- Accept structured user & system requests  
-- Trigger automated workflows  
-- Communicate with backend services & external APIs  
-- Support scalable agent-based task routing
+**✨ Key Features:**  
+- 🔎 Transaction Details – In-depth insights into user transactions  
+- 👥 User Management – Monitor, manage, and resolve user issues  
+- 📊 Analytics Ready – Clear overview of platform activities  
+- ⚡ Bubble.io Advantages – No-code setup, responsive design, easy scalability  
+
+**📸 Screenshots**  
+
+Dashboard Overview:  
+![GlassAdmin Dashboard](https://i.ibb.co/X7d7p9r/glassadmin-dashboard.png)  
+
+Transaction Details Page:  
+![GlassAdmin Transactions](https://i.ibb.co/2d5fP5k/glassadmin-transactions.png)  
+
+**🚀 Deployment**  
+Directly deployed from Bubble.io  
+
+**🔗 Live Demo:** [GlassAdmin Live](https://glassadmin.bubbleapps.io)
 
 ---
 
@@ -89,6 +97,13 @@ An AI-powered personal finance assistant that:
 
 ---
 
+### 🤖 AI Agent & Workflow Systems
+- Modular AI agent systems with execution logic & task routing  
+- Production-grade automation pipelines (n8n, Zapier, Make)  
+- Scalable, secure backend APIs for AI-driven workflows  
+
+---
+
 ## ⭐ Featured Repositories
 
 | Project | Description | Stack |
@@ -98,7 +113,7 @@ An AI-powered personal finance assistant that:
 | 🧠 **AI Backend Systems** | Scalable APIs optimized for AI workflows | Django · Node.js |
 | 💰 **WealthWise AI Agent** | Personal finance adviser AI | Django · PostgreSQL |
 
-➡️ **Explore more:** https://github.com/ufuos?tab=repositories
+➡️ **Explore more:** [GitHub Repositories](https://github.com/ufuos?tab=repositories)
 
 ---
 
@@ -123,7 +138,7 @@ Bubble.io
 Git · GitHub · Docker  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,react,tailwind,mongodb,postgres,docker,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,react,tailwind,mongodb,postgres,docker,git,github,postman,bubble" />
 </p>
 
 ---
@@ -153,28 +168,28 @@ Petroleum Training Institute (PTI), Nigeria — **2014**
 ## 📜 Certifications & Training
 
 - **ALX ProDev Backend Engineering (Django)**  
-  https://drive.google.com/file/d/17r8MJz3svVao6b3on_74W744h77HSY54/view
+  [View Certificate](https://drive.google.com/file/d/17r8MJz3svVao6b3on_74W744h77HSY54/view)
 
 - **Software Development (3MTT Program)**  
-  https://drive.google.com/file/d/1XsI34kOQIWzXdqyTixqbmmox1nwdqzmV/view
+  [View Certificate](https://drive.google.com/file/d/1XsI34kOQIWzXdqyTixqbmmox1nwdqzmV/view)
 
 - **Cisco JavaScript Essentials 2**  
-  https://drive.google.com/file/d/1ieNawuvfBD7sVnnlYcRFGGy3Bhplj5P5/view
+  [View Certificate](https://drive.google.com/file/d/1ieNawuvfBD7sVnnlYcRFGGy3Bhplj5P5/view)
 
 - **Cisco Python Essentials 1**  
-  https://drive.google.com/file/d/1ZzS28ba1PODJPb9XA2wMIDE2rWpkl6U/view
+  [View Certificate](https://drive.google.com/file/d/1ZzS28ba1PODJPb9XA2wMIDE2rWpkl6U/view)
 
 - **Bubble.io No-Code / Low-Code Development**  
-  https://drive.google.com/file/d/1EWG1JVdMgY36qMaKZfKDBeqSVJE4TY20/view
+  [View Certificate](https://drive.google.com/file/d/1EWG1JVdMgY36qMaKZfKDBeqSVJE4TY20/view)
 
 - **No-Code Automation (n8n, Zapier, Make)**  
-  https://drive.google.com/file/d/1ZqD0q_A8nCh5X-T0CNDYt8k-rRkEHbvw/view
+  [View Certificate](https://drive.google.com/file/d/1ZqD0q_A8nCh5X-T0CNDYt8k-rRkEHbvw/view)
 
 - **ALX Professional Foundations**  
-  https://drive.google.com/file/d/12JffDTSGQgGNfpcORXy8Ok68CWqL-Bcc/view
+  [View Certificate](https://drive.google.com/file/d/12JffDTSGQgGNfpcORXy8Ok68CWqL-Bcc/view)
 
 - **Microsoft Generative AI Certificate**  
-  https://drive.google.com/file/d/1BiPlDjcMNhKFW078IbMPHcbEWnSIpDFh/view
+  [View Certificate](https://drive.google.com/file/d/1BiPlDjcMNhKFW078IbMPHcbEWnSIpDFh/view)
 
 ---
 
