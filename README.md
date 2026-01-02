@@ -1,210 +1,218 @@
-import React, { useState } from 'react';
-import { Plus, Github, ExternalLink, Upload, X, GraduationCap } from 'lucide-react';
-import { Button } from '@/components/ui/button';
-import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogTrigger } from '@/components/ui/dialog';
-import { Input } from '@/components/ui/input';
-import { Textarea } from '@/components/ui/textarea';
+<!-- ================================================= -->
+<!--  UFUOMA OGEDEGBE · PROFESSIONAL GITHUB README     -->
+<!-- ================================================= -->
 
-interface Project {
-  id: string;
-  title: string;
-  description: string;
-  githubUrl: string;
-  liveUrl?: string;
-  image?: string;
-  technologies: string[];
-}
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=36BCF7&center=true&vCenter=true&width=1000&height=60&lines=Hi%2C+I'm+Ufuoma+Ogedegbe+👋;AI+Automation+Engineer+%7C+AI+Agent+Systems+Developer;Fullstack+Software+Engineer;Building+Intelligent+Automation+That+Scales" />
+</p>
 
-const Projects = () => {
-  const [projects, setProjects] = useState<Project[]>([
-    {
-      id: '1',
-      title: 'WealthWise',
-      description:
-        'A personal finance and wealth management web application that helps users track income, expenses, and savings with insightful dashboards.',
-      githubUrl: 'https://github.com/ufuos/wealthwise',
-      liveUrl: 'https://wealthwise-c28t.onrender.com',
-      image:
-        'https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&w=800&q=80',
-      technologies: ['React', 'Node.js', 'Express', 'MongoDB', 'Chart.js']
-    },
-    {
-      id: '2',
-      title: 'E-Commerce Platform',
-      description: 'A full-stack e-commerce solution built with React, Node.js, and PostgreSQL.',
-      githubUrl: 'https://github.com/username/ecommerce',
-      liveUrl: 'https://ecommerce-demo.com',
-      image:
-        'https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&w=800&q=80',
-      technologies: ['React', 'Node.js', 'PostgreSQL', 'Stripe']
-    },
-    {
-      id: '3',
-      title: 'GlassAdmin (Bubble.io)',
-      description:
-        'A modern admin panel built with Bubble.io for no-code management of users and projects.',
-      githubUrl: '',
-      liveUrl:
-        'https://bubble.io/page?id=ufuogbe-86355&tab=Design&name=users&ai_generated=true',
-      image:
-        'https://images.unsplash.com/photo-1605902711622-cfb43c443f5f?auto=format&fit=crop&w=800&q=80',
-      technologies: ['No-Code', 'Bubble.io']
-    }
-  ]);
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E3C72&height=200&section=header&text=Ufuoma%20Ogedegbe&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
 
-  const [isDialogOpen, setIsDialogOpen] = useState(false);
-  const [newProject, setNewProject] = useState<Partial<Project>>({
-    title: '',
-    description: '',
-    githubUrl: '',
-    liveUrl: '',
-    technologies: []
-  });
-  const [newProjectImage, setNewProjectImage] = useState<string>('');
+<h2 align="center">
+🧠 AI Automation Engineer · AI Agent Systems Developer · Fullstack Software Engineer
+</h2>
 
-  const handleImageUpload = (event: React.ChangeEvent<HTMLInputElement>) => {
-    const file = event.target.files?.[0];
-    if (file) {
-      const reader = new FileReader();
-      reader.onload = (e) => setNewProjectImage(e.target?.result as string);
-      reader.readAsDataURL(file);
-    }
-  };
+<p align="center">
+🌍 Nigeria · Open to Global Remote & International Opportunities  
+</p>
 
-  const handleAddProject = () => {
-    if (newProject.title && newProject.description) {
-      const project: Project = {
-        id: Date.now().toString(),
-        title: newProject.title,
-        description: newProject.description,
-        githubUrl: newProject.githubUrl || '',
-        liveUrl: newProject.liveUrl,
-        image: newProjectImage,
-        technologies: newProject.technologies || []
-      };
+---
 
-      setProjects([...projects, project]);
-      setNewProject({ title: '', description: '', githubUrl: '', liveUrl: '', technologies: [] });
-      setNewProjectImage('');
-      setIsDialogOpen(false);
-    }
-  };
+## 🚀 Professional Summary
 
-  const handleTechnologiesChange = (value: string) => {
-    setNewProject({
-      ...newProject,
-      technologies: value.split(',').map(t => t.trim()).filter(Boolean)
-    });
-  };
+I am an **AI Automation Engineer and Fullstack Software Engineer** specializing in building **intelligent automation systems, AI agent workflows, and scalable backend platforms** that eliminate manual processes and improve operational efficiency.
 
-  return (
-    <>
-      {/* ================= PROJECTS SECTION ================= */}
-      <section id="projects" className="py-20 px-4 bg-gray-50">
-        <div className="max-w-7xl mx-auto">
-          <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold text-gray-900 mb-4">My Projects</h2>
-            <p className="text-xl text-gray-600">
-              Selected projects showcasing my full-stack and no-code experience.
-            </p>
-          </div>
+I design **production-ready solutions** that combine:
+- AI agents & execution logic
+- Workflow automation
+- Robust backend engineering
+- API orchestration
+- No-code / low-code acceleration
 
-          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {projects.map(project => (
-              <Card key={project.id} className="hover:shadow-xl transition">
-                {project.image && (
-                  <img
-                    src={project.image}
-                    alt={project.title}
-                    className="h-48 w-full object-cover rounded-t-lg"
-                  />
-                )}
+My focus is always **real-world impact, scalability, and business value**.
 
-                {project.technologies.includes('No-Code') && (
-                  <span className="absolute top-4 left-4 px-2 py-1 bg-yellow-400 text-xs font-semibold rounded-full">
-                    No-Code
-                  </span>
-                )}
+---
 
-                <CardHeader>
-                  <CardTitle>{project.title}</CardTitle>
-                </CardHeader>
+## 📄 Resume
 
-                <CardContent className="space-y-4">
-                  <p className="text-gray-600">{project.description}</p>
+👉 **ATS-Optimized CV**  
+🔗 **[Download Resume](https://drive.google.com/file/d/1lJYZGBg5_C7ai6R02mbeHqUTWuKuMn7B/view)**
 
-                  <div className="flex flex-wrap gap-2">
-                    {project.technologies.map((tech, i) => (
-                      <span
-                        key={i}
-                        className="px-3 py-1 bg-blue-50 text-blue-700 rounded-full text-xs"
-                      >
-                        {tech}
-                      </span>
-                    ))}
-                  </div>
+---
 
-                  <div className="flex gap-3 pt-2">
-                    {project.githubUrl && (
-                      <a href={project.githubUrl} target="_blank">
-                        <Github />
-                      </a>
-                    )}
-                    {project.liveUrl && (
-                      <a href={project.liveUrl} target="_blank">
-                        <ExternalLink />
-                      </a>
-                    )}
-                  </div>
-                </CardContent>
-              </Card>
-            ))}
-          </div>
-        </div>
-      </section>
+## 🧩 Recruiter Snapshot
 
-      {/* ================= EDUCATION / CERTIFICATIONS ================= */}
-      <section id="education" className="py-20 px-4 bg-white">
-        <div className="max-w-5xl mx-auto">
-          <div className="text-center mb-12">
-            <h2 className="text-4xl font-bold text-gray-900 mb-4">
-              Education & Certifications
-            </h2>
-          </div>
+**What I Bring to Your Team**
 
-          <div className="space-y-6">
-            <Card>
-              <CardContent className="flex items-center justify-between py-6">
-                <div className="flex items-center gap-4">
-                  <GraduationCap className="text-blue-600" />
-                  <div>
-                    <h3 className="font-semibold">ALX ProDev Backend Engineering</h3>
-                    <p className="text-gray-600">Advanced Backend Development Program</p>
-                  </div>
-                </div>
-                <span className="px-3 py-1 bg-green-100 text-green-700 rounded-full text-sm font-medium">
-                  Completed 🎓
-                </span>
-              </CardContent>
-            </Card>
+✔ AI Agent Architecture & Task Execution  
+✔ AI Workflow Automation (n8n, Zapier, Make)  
+✔ API Design, Integration & Orchestration  
+✔ Backend Engineering (Django, Node.js, Express)  
+✔ Fullstack Development (React, MERN Stack)  
+✔ Database Design & Performance Optimization  
+✔ No-Code / Low-Code System Development  
+✔ Remote-First · Async · Agile Collaboration  
 
-            <Card>
-              <CardContent className="flex items-center justify-between py-6">
-                <div>
-                  <h3 className="font-semibold">Full-Stack MERN Development</h3>
-                  <p className="text-gray-600">React, Node.js, Express & MongoDB</p>
-                </div>
-                <span className="px-3 py-1 bg-green-100 text-green-700 rounded-full text-sm font-medium">
-                  Completed 🎓
-                </span>
-              </CardContent>
-            </Card>
-          </div>
-        </div>
-      </section>
-    </>
-  );
-};
+---
 
-export default Projects;
+## 🧠 Selected Projects & Automation Highlights
+
+### 💻 GlassAdmin — No-Code Admin Dashboard (Bubble.io)
+
+<p align="center">
+  <img src="https://i.ibb.co/xF5PjDk/glassadmin-dashboard.png" width="750" />
+</p>
+
+**GlassAdmin** is a modern **admin panel built with Bubble.io**, designed for efficient user and transaction management.
+
+**Key Capabilities**
+- 🔎 Transaction monitoring & detailed insights  
+- 👥 User management & issue resolution  
+- 📊 Analytics-ready dashboards  
+- ⚡ Fast deployment using no-code architecture  
+
+<p align="center">
+  <img src="https://i.ibb.co/2ZqFJ8P/glassadmin-transactions.png" width="600" />
+  <img src="https://i.ibb.co/SJxVJ0B/glassadmin-users.png" width="600" />
+</p>
+
+🔗 **Live Demo:** https://bubble.io/page?id=ufuogbe-86355  
+🏷️ **Stack:** Bubble.io · No-Code / Low-Code  
+
+---
+
+### 🔁 AI Workflow Automation Systems
+
+- Designed **production-grade automation pipelines**
+- Integrated APIs, databases, and external services
+- Automated:
+  - Business alerts & notifications  
+  - Data synchronization  
+  - Task routing & execution logic  
+
+✅ **Outcome:** Reduced manual workload and improved operational efficiency.
+
+---
+
+### 🤖 AI Agent-Driven Systems
+
+Developed AI agent architectures that:
+- Accept structured user and system requests  
+- Trigger intelligent workflows  
+- Communicate with backend services & APIs  
+- Support scalable, modular task execution  
+
+---
+
+### 💰 WealthWise — Personal Finance AI Agent
+
+An AI-powered personal finance assistant that:
+- Analyzes income & spending patterns  
+- Generates budgeting and savings insights  
+- Automates reminders and recommendations  
+
+**Backend Architecture**
+- Secure authentication & user profiles  
+- Financial data ingestion & processing  
+- REST APIs optimized for AI-agent interaction  
+- Scalable, automation-ready design  
+
+🔗 **Live Project:** https://wealthwise-c28t.onrender.com
+
+---
+
+## ⭐ Featured Repositories
+
+| Project | Description | Stack |
+|------|------------|------|
+| 🤖 AI Agents Platform | Modular AI agent execution & routing system | Python · Django |
+| 🔁 Workflow Automation Hub | Business automation pipelines | n8n · APIs |
+| 🧠 AI Backend Systems | Scalable APIs for AI workflows | Django · Node.js |
+| 💰 WealthWise AI | Personal finance AI agent | Django · PostgreSQL |
+
+➡️ **More projects:** https://github.com/ufuos?tab=repositories
+
+---
+
+## 🧰 Technical Stack
+
+**Backend:** Django · Django REST Framework · Node.js · Express  
+**Frontend:** React · React Native · Tailwind CSS  
+**Databases:** PostgreSQL · MongoDB · MySQL  
+**AI & Automation:** AI Agents · n8n · Zapier · Make  
+**No-Code / Low-Code:** Bubble.io  
+**DevOps (Foundational):** Git · GitHub · Docker  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,react,tailwind,mongodb,postgres,docker,git,github,postman,bubble" />
+</p>
+
+---
+
+## 💼 Professional Experience
+
+### Freelance AI Automation Engineer & Fullstack Developer  
+📍 Remote | **2020 – Present**
+
+- Built AI-enabled backend systems using Django & Node.js  
+- Designed automation workflows integrating third-party APIs  
+- Developed secure, scalable REST APIs  
+- Delivered no-code and low-code solutions  
+- Translated business requirements into production systems  
+- Collaborated with distributed, remote-first teams  
+
+---
+
+## 🎓 Education
+
+**Higher National Diploma (HND)**  
+Electronics & Telecommunication Engineering  
+Petroleum Training Institute (PTI), Nigeria — **2014**
+
+---
+
+## 📜 Certifications & Training
+
+- **ALX ProDev Backend Engineering (Django)** — ✅ *Completed*  
+- **ALX Professional Foundations** — ✅ *Completed*  
+- **Software Development (3MTT Program)** — ✅ *Completed*  
+- **Microsoft Generative AI Certificate** — ✅ *Completed*  
+- **Cisco JavaScript Essentials 2** — ✅ *Completed*  
+- **Cisco Python Essentials 1** — ✅ *Completed*  
+- **Bubble.io No-Code / Low-Code Development** — ✅ *Completed*  
+- **No-Code Automation (n8n, Zapier, Make)** — ✅ *Completed*  
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ufuos&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ufuos&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://ufuosmernportfolio.onrender.com">
+    <img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/ufuoma-ogedegbe-b14250100">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ufuos">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+📞 **Phone:** +234 816 842 7910  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:36BCF7&height=120&section=footer" />
+</p>
