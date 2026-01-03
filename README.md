@@ -180,7 +180,29 @@ Petroleum Training Institute (PTI), Nigeria — **2014**
 
 ## 📜 Certifications & Professional Training
 
-*(unchanged — all links retained)*
+- **ALX ProDev Backend Engineering (Django)**  
+  https://drive.google.com/file/d/17r8MJz3svVao6b3on_74W744h77HSY54/view
+
+- **Software Development — 3MTT Program**  
+  https://drive.google.com/file/d/1XsI34kOQIWzXdqyTixqbmmox1nwdqzmV/view
+
+- **Cisco JavaScript Essentials 2**  
+  https://drive.google.com/file/d/1ieNawuvfBD7sVnnlYcRFGGy3Bhplj5P5/view
+
+- **Cisco Python Essentials 1**  
+  https://drive.google.com/file/d/1ZzS28ba1PODJPb9XA2wMIDE2rWpkl6U/view
+
+- **Bubble.io No-Code / Low-Code Development**  
+  https://drive.google.com/file/d/1EWG1JVdMgY36qMaKZfKDBeqSVJE4TY20/view
+
+- **No-Code Automation (n8n · Zapier · Make)**  
+  https://drive.google.com/file/d/1ZqD0q_A8nCh5X-T0CNDYt8k-rRkEHbvw/view
+
+- **ALX Professional Foundations**  
+  https://drive.google.com/file/d/12JffDTSGQgGNfpcORXy8Ok68CWqL-Bcc/view
+
+- **Microsoft Generative AI Certificate**  
+  https://drive.google.com/file/d/1BiPlDjcMNhKFW078IbMPHcbEWnSIpDFh/view
 
 ---
 
