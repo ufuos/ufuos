@@ -7,8 +7,8 @@ My work sits at the intersection of AI agents, workflow automation, backend engi
 
 📄 Resume (ATS-Optimized)
 
-👉 Download CV
-🔗 https://drive.google.com/file/d/1lJYZGBg5_C7ai6R02mbeHqUTWuKuMn7B/view
+👉 View CV
+🔗 https://drive.google.com/file/d/1mPUE1UaDIGIFAH7q5jRah6zaosV3XEVq/view?usp=drive_link
 
 🧩 Recruiter Snapshot
 
