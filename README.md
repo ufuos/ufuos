@@ -27,19 +27,57 @@ I build **AI-powered automation systems, intelligent AI agent workflows, scalabl
 
 ## 📜 Certifications & Professional Training
 
-<details> 
+<details>
 <summary>📜 Certifications & Professional Training</summary>
 
-- [ALX ProDev Backend Engineering (Django)](https://drive.google.com/file/d/17r8MJz3svVao6b3on_74W744h77HSY54/view)  
-- [Software Development — 3MTT Program](https://drive.google.com/file/d/1XsI34kOQIWzXdqyTixqbmmox1nwdqzmV/view)  
-- [Cisco JavaScript Essentials 2](https://drive.google.com/file/d/1ieNawuvfBD7sVnnlYcRFGGy3Bhplj5P5/view)  
-- [Cisco Python Essentials 1](https://drive.google.com/file/d/1ZzS28ba1PODJPb9XA2wMIDE2rWpkl6U/view)  
-- [Bubble.io No-Code / Low-Code Development](https://drive.google.com/file/d/1EWG1JVdMgY36qMaKZfKDBeqSVJE4TY20/view)  
-- [No-Code Automation (n8n · Zapier · Make)](https://drive.google.com/file/d/1ZqD0q_A8nCh5X-T0CNDYt8k-rRkEHbvw/view)  
-- [ALX Professional Foundations](https://drive.google.com/file/d/12JffDTSGQgGNfpcORXy8Ok68CWqL-Bcc/view)  
-- [Microsoft Generative AI Certificate](https://drive.google.com/file/d/1BiPlDjcMNhKFW078IbMPHcbEWnSIpDFh/view)
+<br/>
+
+_Industry-recognized certifications across backend engineering, AI, automation, and no-code platforms._
+
+<br/>
+
+- **ALX ProDev Backend Engineering (Django)**  
+  <img src="https://img.shields.io/badge/Backend-Django-092E20?style=flat&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Program-ALX-000000?style=flat&logo=alx&logoColor=white"/>  
+  👉 [View Certificate](https://drive.google.com/file/d/17r8MJz3svVao6b3on_74W744h77HSY54/view)
+
+- **Software Development — 3MTT Program**  
+  <img src="https://img.shields.io/badge/Full--Stack-Training-36BCF7?style=flat"/>
+  <img src="https://img.shields.io/badge/Program-3MTT-1E3C72?style=flat"/>  
+  👉 [View Certificate](https://drive.google.com/file/d/1XsI34kOQIWzXdqyTixqbmmox1nwdqzmV/view)
+
+- **Cisco JavaScript Essentials 2**  
+  <img src="https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Certified-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white"/>  
+  👉 [View Certificate](https://drive.google.com/file/d/1ieNawuvfBD7sVnnlYcRFGGy3Bhplj5P5/view)
+
+- **Cisco Python Essentials 1**  
+  <img src="https://img.shields.io/badge/Python-Fundamentals-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Certified-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white"/>  
+  👉 [View Certificate](https://drive.google.com/file/d/1ZzS28ba1PODJPb9XA2wMIDE2rWpkl6U/view)
+
+- **Bubble.io No-Code / Low-Code Development**  
+  <img src="https://img.shields.io/badge/No--Code-Bubble-2C74FF?style=flat&logo=bubble&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Low--Code-Builder-5A67D8?style=flat"/>  
+  👉 [View Certificate](https://drive.google.com/file/d/1EWG1JVdMgY36qMaKZfKDBeqSVJE4TY20/view)
+
+- **No-Code Automation (n8n · Zapier · Make)**  
+  <img src="https://img.shields.io/badge/Automation-n8n-EA4B71?style=flat&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zapier-Make-FE7A16?style=flat&logo=zapier&logoColor=white"/>  
+  👉 [View Certificate](https://drive.google.com/file/d/1ZqD0q_A8nCh5X-T0CNDYt8k-rRkEHbvw/view)
+
+- **ALX Professional Foundations**  
+  <img src="https://img.shields.io/badge/Professional-Skills-000000?style=flat"/>
+  <img src="https://img.shields.io/badge/Program-ALX-000000?style=flat&logo=alx&logoColor=white"/>  
+  👉 [View Certificate](https://drive.google.com/file/d/12JffDTSGQgGNfpcORXy8Ok68CWqL-Bcc/view)
+
+- **Microsoft Generative AI Certificate**  
+  <img src="https://img.shields.io/badge/Generative--AI-Microsoft-5E5E5E?style=flat&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI--Systems-Certified-36BCF7?style=flat"/>  
+  👉 [View Certificate](https://drive.google.com/file/d/1BiPlDjcMNhKFW078IbMPHcbEWnSIpDFh/view)
 
 </details>
+
 
 ---
 
