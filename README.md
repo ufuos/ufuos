@@ -27,14 +27,19 @@ I build **AI-powered automation systems, intelligent AI agent workflows, scalabl
 
 ## 📜 Certifications & Professional Training
 
-<details>
-<summary>📜 Certifications & Professional Training</summary>
+<details open>
+<summary><b>📜 Certifications & Professional Training (Click to Collapse/Expand)</b></summary>
 
 <br/>
 
 _Industry-recognized certifications across backend engineering, AI, automation, and no-code platforms._
 
 <br/>
+
+- **Generative AI — Deep-Tech Africa × 3MTT Nigeria**  
+  <img src="https://img.shields.io/badge/Generative--AI-Deep--Tech%20Africa-36BCF7?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Program-3MTT%20Nigeria-1E3C72?style=flat"/>  
+  👉 [View Certificate](https://drive.google.com/file/d/YOUR_DEEPTECH_AFRICA_CERT_LINK_HERE/view)
 
 - **ALX ProDev Backend Engineering (Django)**  
   <img src="https://img.shields.io/badge/Backend-Django-092E20?style=flat&logo=django&logoColor=white"/>
@@ -78,6 +83,16 @@ _Industry-recognized certifications across backend engineering, AI, automation, 
 
 </details>
 
+---
+
+## ⚡ Highlighted AI & Automation Features Learned
+Key technical capabilities unlocked through advanced Generative AI training with **Deep-Tech Africa & 3MTT Nigeria** that directly scale my AI Agent & Automation workflows:
+
+- 🤖 **Autonomous AI Agent Workflows:** Designing self-correcting agent loops (using LangChain & LangGraph) that plan, execute, and evaluate multi-step tasks autonomously.
+- ⚙️ **Function Calling & Tool Integration:** Enabling LLMs to query external databases, invoke APIs, and trigger production webhook events seamlessly.
+- 📚 **Retrieval-Augmented Generation (RAG):** Implementing vector stores, embeddings, and context-retrieval pipelines to eliminate AI hallucination on custom domain data.
+- 🔀 **Multi-Agent Orchestration:** Building collaborative multi-agent architectures where specialized agents communicate to solve enterprise problems.
+- 🔌 **Intelligent Process Automation (IPA):** Combining deterministic workflows (n8n/Make) with LLM reasoning nodes for end-to-end operational automation.
 
 ---
 
