@@ -39,7 +39,7 @@ _Industry-recognized certifications across backend engineering, AI, automation, 
 - **Generative AI — Deep-Tech Africa × 3MTT Nigeria**  
   <img src="https://img.shields.io/badge/Generative--AI-Deep--Tech%20Africa-36BCF7?style=flat&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Program-3MTT%20Nigeria-1E3C72?style=flat"/>  
-  👉 [View Certificate](https://drive.google.com/file/d/YOUR_DEEPTECH_AFRICA_CERT_LINK_HERE/view)
+  👉 [View Certificate](https://drive.google.com/file/d/1j-gyBjvSSvvm7fnRGexyKx00COPA8WtB/view?usp=drive_link)
 
 - **ALX ProDev Backend Engineering (Django)**  
   <img src="https://img.shields.io/badge/Backend-Django-092E20?style=flat&logo=django&logoColor=white"/>
