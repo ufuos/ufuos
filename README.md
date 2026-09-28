@@ -17,7 +17,7 @@
 
 ## 🚀 Professional Summary
 I build **AI-powered automation systems, intelligent AI agent workflows, scalable backend platforms, and modern web & mobile applications**. Focused on **production-ready, business-impact solutions**, I merge **AI agents, workflow automation, backend engineering, and cross-platform frontend/mobile development** to deliver robust, intelligent systems.
-
+💡 Currently advancing my specialization via Cyberial Lab (Introduction to AI & LLMs) and the 3MTT / DeepTech Agentic AI Course.
 ---
 
 ## 📄 Resume (Full Professional Profile)
