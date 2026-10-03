@@ -146,7 +146,7 @@ Key technical capabilities unlocked through advanced Generative AI training with
 
 ## 🤝 Connect With Me
 <p align="center">
- <a href="https://ufuosmernportfolio.onrender.com">
+ <a href="https://ufuosportfolio.onrender.com">
   <img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=react&logoColor=white"/>
  </a>
  <a href="https://linkedin.com/in/ufuoma-ogedegbe-b14250100">
