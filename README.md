@@ -21,7 +21,7 @@ I build **AI-powered automation systems, intelligent AI agent workflows, scalabl
 ---
 
 ## 📄 Resume (Full Professional Profile)
-👉 [View PDF Resume](https://drive.google.com/file/d/1UVAW6V-yDwnWBheikWPriq0gFoXVBY4h/view?usp=drive_link)
+👉 [View PDF Resume](https://drive.google.com/file/d/1hg_9LE2A25jmAE1LBgHiuVTrZkc8b3BM/view?usp=sharing)
 
 ---
 
